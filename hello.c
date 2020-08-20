@@ -14,6 +14,8 @@
      
      printf("Gavin Owen\n");
      printf("Computer Science\n");
+     printf("Kyle Auman\n");
+     printf("Computer Engineering\n");
      return 0;
      
  }
